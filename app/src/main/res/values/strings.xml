@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="explorarStr">Explorar Destinos</string>
+    <string name="favoritosStr">Favoritos</string>
+    <string name="recomendacionesStr">Recomendaciones</string>
+    <string name="agregarFavoritosStr">Añadir a Favoritos</string>
+</resources>

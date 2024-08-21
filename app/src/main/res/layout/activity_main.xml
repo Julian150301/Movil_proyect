@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="15dp"
+    tools:context=".logica.MainActivity">
+
+    <Spinner
+        android:id="@+id/filtros"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        >
+
+    </Spinner>
+
+    <Button
+        android:id="@+id/explorarBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filtros"
+        android:text="@string/explorarStr"
+        android:layout_centerInParent="true">
+
+    </Button>
+    <Button
+        android:id="@+id/favoritosBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/explorarBtn"
+        android:text="@string/favoritosStr"
+        android:layout_centerVertical="true">
+
+    </Button>
+    <Button
+        android:id="@+id/recomendacionesBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/favoritosBtn"
+        android:text="@string/recomendacionesStr"
+        android:layout_centerVertical="true">
+
+    </Button>
+
+</RelativeLayout>
