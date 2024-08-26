@@ -1,0 +1,154 @@
+{
+    "destinos": [
+        {
+            "id": 1,
+            "nombre": "Baia do Sancho",
+            "pais": "Brazil",
+            "categoria": "Playas",
+            "plan": "Snorkeling y paseos en barco",
+            "precio": 150,
+            "latitud": -3.8571,
+            "longitud": -32.4259
+        },
+        {
+            "id": 2,
+            "nombre": "Eagle Beach",
+            "pais": "Aruba",
+            "categoria": "Playas",
+            "plan": "Relajación y deportes acuáticos",
+            "precio": 200,
+            "latitud": 12.5319,
+            "longitud": -70.0591
+        },
+        {
+            "id": 3,
+            "nombre": "El Nido",
+            "pais": "Filipinas",
+            "categoria": "Playas",
+            "plan": "Tour de islas y buceo",
+            "precio": 180,
+            "latitud": 11.2024,
+            "longitud": 119.3940
+        },
+        {
+            "id": 4,
+            "nombre": "Monte Everest",
+            "pais": "Nepal/China",
+            "categoria": "Montañas",
+            "plan": "Trekking al campo base",
+            "precio": 1000,
+            "latitud": 27.9881,
+            "longitud": 86.9250
+        },
+        {
+            "id": 5,
+            "nombre": "Mont Blanc",
+            "pais": "Francia/Italia",
+            "categoria": "Montañas",
+            "plan": "Ascenso y esquí",
+            "precio": 1500,
+            "latitud": 45.8326,
+            "longitud": 6.8652
+        },
+        {
+            "id": 6,
+            "nombre": "Aconcagua",
+            "pais": "Argentina",
+            "categoria": "Montañas",
+            "plan": "Expedición de montañismo",
+            "precio": 3000,
+            "latitud": -32.6532,
+            "longitud": -70.0109
+        },
+        {
+            "id": 7,
+            "nombre": "Machu Picchu",
+            "pais": "Perú",
+            "categoria": "Ciudades Históricas",
+            "plan": "Caminata por el Camino Inca",
+            "precio": 500,
+            "latitud": -13.1631,
+            "longitud": -72.5450
+        },
+        {
+            "id": 8,
+            "nombre": "Roma",
+            "pais": "Italia",
+            "categoria": "Ciudades Históricas",
+            "plan": "Tour histórico y cultural",
+            "precio": 300,
+            "latitud": 41.9028,
+            "longitud": 12.4964
+        },
+        {
+            "id": 9,
+            "nombre": "Petra",
+            "pais": "Jordania",
+            "categoria": "Ciudades Históricas",
+            "plan": "Exploración arqueológica",
+            "precio": 250,
+            "latitud": 30.3285,
+            "longitud": 35.4444
+        },
+        {
+            "id": 10,
+            "nombre": "Gran Muralla China",
+            "pais": "China",
+            "categoria": "Maravillas del Mundo",
+            "plan": "Caminata y tour cultural",
+            "precio": 100,
+            "latitud": 40.4319,
+            "longitud": 116.5704
+        },
+        {
+            "id": 11,
+            "nombre": "Taj Mahal",
+            "pais": "India",
+            "categoria": "Maravillas del Mundo",
+            "plan": "Visita guiada histórica",
+            "precio": 50,
+            "latitud": 27.1751,
+            "longitud": 78.0421
+        },
+        {
+            "id": 12,
+            "nombre": "Pirámides de Giza",
+            "pais": "Egipto",
+            "categoria": "Maravillas del Mundo",
+            "plan": "Tour histórico y de aventura",
+            "precio": 120,
+            "latitud": 29.9792,
+            "longitud": 31.1342
+        },
+        {
+            "id": 13,
+            "nombre": "Amazonas",
+            "pais": "Brasil",
+            "categoria": "Selvas",
+            "plan": "Crucero por el río y ecoturismo",
+            "precio": 1500,
+            "latitud": -3.4653,
+            "longitud": -62.2159
+        },
+        {
+            "id": 14,
+            "nombre": "Congo",
+            "pais": "República Democrática del Congo",
+            "categoria": "Selvas",
+            "plan": "Safari y observación de gorilas",
+            "precio": 2000,
+            "latitud": -0.0551,
+            "longitud": 29.5136
+        },
+        {
+            "id": 15,
+            "nombre": "Borneo",
+            "pais": "Indonesia/Malasia",
+            "categoria": "Selvas",
+            "plan": "Trekking y observación de la vida silvestre",
+            "precio": 1300,
+            "latitud": 1.4969,
+            "longitud": 113.6199
+        }
+    ]
+}
