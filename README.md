@@ -4,4 +4,4 @@ Harry Sanchez
 Julián Espinoza
 ## Grupo: Digital Vanguards
 ### Video
-![Video explicación del taller](https://youtu.be/VFylcqkxRnk)
+![[Video explicación del taller]](https://youtu.be/VFylcqkxRnk)
